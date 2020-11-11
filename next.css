@@ -1,0 +1,21 @@
+#div {
+  background-color: black;
+}
+h3 {
+  text-align: center;
+  color: white;
+}
+hr.solid {
+  border-top: 1.3px solid wheat;
+}
+#s {
+  text-align: unset;
+  margin-left: 3cm;
+}
+#color {
+  background-color: rgb(29, 23, 23);
+}
+p1 {
+  color: white;
+  text-emphasis: center;
+}

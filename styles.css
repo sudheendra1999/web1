@@ -1,0 +1,29 @@
+body {
+  background-color: bisque;
+}
+h1,
+h6,
+h3,
+p {
+  text-align: center;
+}
+#image {
+  padding: 3% 3% 3% 3%;
+  width: 390px;
+  align-content: center;
+  justify-content: center;
+  height: 190px;
+}
+#mob-img {
+  margin-left: 0%;
+  background-color: bisque;
+}
+#another-sec {
+  background-color: rgb(223, 206, 206);
+}
+#testimonials {
+  background-color: palevioletred;
+}
+#end {
+  background-color: rgba(247, 236, 221, 0.925);
+}
